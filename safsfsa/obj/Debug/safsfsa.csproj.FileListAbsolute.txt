@@ -1,1 +1,2 @@
 C:\Users\SEVİLAY\Documents\Visual Studio 2013\Projects\safsfsa\safsfsa\bin\Debug\safsfsa.exe.config
+C:\Users\SEVİLAY\Documents\Visual Studio 2013\Projects\asdfafa\safsfsa\bin\Debug\safsfsa.exe.config
